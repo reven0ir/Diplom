@@ -1,0 +1,18 @@
+ul.pagination {
+    margin: 0;
+}
+
+.copy-on-click {
+    background-color: rgba(0, 0, 0, 0.84);
+    position: absolute;
+    bottom: -40px;
+    left: 0;
+    z-index: 100;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    display: block;
+}

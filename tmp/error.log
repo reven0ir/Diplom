@@ -1,0 +1,17 @@
+[2023-12-10 14:21:03] DB Error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[2023-12-13 11:55:39] DB Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'post-3' for key 'slug'
+[2023-12-15 14:48:51] Error uploading file
+[2023-12-15 14:48:51] Error uploading file
+[2023-12-15 14:48:51] Error uploading file
+[2023-12-21 17:42:50] DB Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'post-23' for key 'slug'
+[2023-12-22 13:40:26] DB Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'post-23' for key 'slug'
+[2023-12-22 13:43:25] DB Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'post-23' for key 'slug'
+[2023-12-23 12:42:16] Mail Error: SMTP Error: Could not authenticate.SMTP server error: QUIT command failed
+[2023-12-24 14:42:44] DB Error: SQLSTATE[HY000] [1049] Unknown database 'zenblog'
+[2024-01-03 20:50:49] DB Error: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'content' at row 1
+[2025-06-12 14:56:36] DB Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[2025-06-12 14:57:41] DB Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zenblog.tags' doesn't exist
+[2025-06-12 14:57:42] DB Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zenblog.tags' doesn't exist
+[2025-06-12 15:47:13] DB Error: SQLSTATE[HY000]: General error: 1364 Field 'image' doesn't have a default value
+[2025-06-12 15:50:26] DB Error: SQLSTATE[HY000]: General error: 1364 Field 'image' doesn't have a default value
+[2025-06-14 01:36:20] DB Error: SQLSTATE[HY000]: General error: 1364 Field 'image' doesn't have a default value
